@@ -1,6 +1,6 @@
 # My review to ReactJS - Component
 
-## What is Component?
+## Why handle event?
 
-For making project and code dinamic, componets are used to break code in chield parts,
-namedly components!
+Handle event is very important because all actions, change state for exemple,
+need to event!
